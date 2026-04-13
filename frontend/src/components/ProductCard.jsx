@@ -19,5 +19,4 @@ export default   function ProductCard({p,setCart}){
         <button onClick={handleClick}>Legg til handlevogn</button>
       </article>
     )
-
   }
